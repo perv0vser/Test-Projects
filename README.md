@@ -1,6 +1,6 @@
 # Test Projects
 
-This repo contains the following test pojects:
+This repo contains the following test projects:
 
 | Project name | Description | Stack | 
 | :---------------------- | :---------------------- | :---------------------- |
